@@ -33,7 +33,7 @@
     </div>
     <article id="scroll-steps">
       <section class="step" id="step1">
-        Let`s look at 100 dots, with one dot representing one per cent of all
+        Let's look at 100 dots, with one dot representing one per cent of all
         respondents — approximately 18 people.
       </section>
       <section class="step" id="step2">
@@ -64,7 +64,7 @@
       </section>
       <section class="step" id="step7">
         15% of all respondents are working in the <span class="private"> private sector. </span> Those who majored
-        in business or science, math and technology ar more likely than respondents
+        in business or science, math and technology are more likely than respondents
         who pursued other degrees to work in the private sector.
       </section>
       <section class="step" id="step8">
