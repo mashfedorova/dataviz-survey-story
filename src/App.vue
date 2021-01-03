@@ -25,7 +25,8 @@
         practitioners. The survey included responses from 1,766 people. As a newcomer
         to the field myself, I wanted to dive into the data to understand who
         are the people doing visualization in terms of demographics, where do they
-        work and what do they study.
+        work and what do they study. <br>
+        Best viewed on Desktop using Chrome.
       </p>
     </div>
     <div id="chart">
